@@ -4,7 +4,7 @@
   },
   "dependencies": {
     "@middy/core": "^1.0.0-beta.8",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
